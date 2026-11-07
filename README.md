@@ -1,103 +1,54 @@
 # Hi, I'm Suraj 👋
 
-Full-Stack Developer passionate about building modern, scalable, and user-focused web applications using the MERN stack.
+MERN Stack Developer focused on building modern, user-friendly web applications with MongoDB, Express.js, React, and Node.js.
 
-I enjoy turning ideas into functional products — from designing clean interfaces to building robust backend systems and deploying real-world solutions.
+I enjoy turning ideas into practical projects, learning by building, and improving the experience from the interface to the backend.
 
 ## 🚀 About Me
 
-- Full-Stack Developer focused on MongoDB, Express.js, React.js, and Node.js
-- Interested in building efficient web apps, dashboards, AI-powered tools, and product experiences
-- Comfortable working across frontend, backend, APIs, and deployment workflows
-- Always learning and improving through real-world projects and experimentation
+- Building full-stack web projects with the MERN stack
+- Interested in responsive interfaces, useful web applications, and AI-powered products
+- Continuously developing my skills through hands-on projects
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Responsive UI Design
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Session Handling
-- API Integration
-
-### Database & Tools
-- MongoDB
-- Mongoose
-- Git & GitHub
-- Vercel
-- Netlify
-- Postman
-- Figma (for UI thinking)
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Tools & deployment:** Git, GitHub, Postman, Vercel, Netlify
 
 ## 🌟 Featured Projects
 
-### SmartDoc
-AI-powered document and workflow platform focused on smart assistance and productivity.
+### [SmartDoc](https://github.com/SurajX09/SmartDoc)
+A smart document and productivity project.
 
-- Tech: JavaScript, React, APIs
-- Demo: https://smartdoc-umber.vercel.app
-- Repo: https://github.com/SurajX09/SmartDoc
+- [Live demo](https://smartdoc-umber.vercel.app)
 
-### InternMatch-Showcase
-Project showcase for an AI-powered internship matching platform.
+### [InternMatch-Showcase](https://github.com/SurajX09/InternMatch-Showcase)
+Showcase for an AI-powered internship matching platform.
 
-- Tech: HTML, CSS, JavaScript
-- Demo: https://surajx09.github.io/InternMatch-Showcase/
-- Repo: https://github.com/SurajX09/InternMatch-Showcase
+- [Live demo](https://surajx09.github.io/InternMatch-Showcase/)
 
-### NeuroTac
-A project focused on high-impact digital product experiences and interactive UI.
+### [NeuroTac](https://github.com/SurajX09/NeuroTac)
+An interactive web project.
 
-- Tech: HTML, CSS, JavaScript
-- Demo: https://surajx09.github.io/NeuroTac/
-- Repo: https://github.com/SurajX09/NeuroTac
+- [Live demo](https://surajx09.github.io/NeuroTac/)
 
-### Electricity-
-A utility-focused application for tracking power cut start and end time calculations.
+### [Electricity-](https://github.com/SurajX09/Electricity-)
+A utility project for calculating power-cut start and end times.
 
-- Tech: HTML, CSS, JavaScript
-- Live App: https://electricity-tau.vercel.app
-- Repo: https://github.com/SurajX09/Electricity-
+- [Live app](https://electricity-tau.vercel.app)
 
-### Windows-UI
-A design-focused project recreating a modern Windows-style interface.
+### [Windows-UI](https://github.com/SurajX09/Windows-UI)
+An experiment in creating a Windows-inspired user interface.
 
-- Tech: HTML, CSS
-- Repo: https://github.com/SurajX09/Windows-UI
+## 📫 Contact
 
-## 📌 Current Focus
+- Email: [surajk.builds@gmail.com](mailto:surajk.builds@gmail.com)
+- GitHub: [SurajX09](https://github.com/SurajX09)
 
-- Building polished MERN stack applications
-- Improving frontend UX and performance
-- Exploring AI integration in real-world products
-- Strengthening project architecture and clean code practices
-
-## 📈 GitHub Highlights
-
-- Active in full-stack project development
-- Focused on practical, deployable web apps
-- Building a portfolio centered on product thinking and implementation
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/SurajX09
-- Portfolio: https://surajx09.github.io/NeuroTac/
-- LinkedIn: Add your profile link
-- Email: Add your email
-
-## 💡 Philosophy
-
-I believe great software is not just functional — it should also be intuitive, efficient, and valuable to users.
+I'm currently building my portfolio website, so I haven't listed a portfolio link yet.
 
 ---
 
-"Build products that solve real problems and leave a strong user experience."
+I believe great software should be useful, intuitive, and enjoyable to use.
